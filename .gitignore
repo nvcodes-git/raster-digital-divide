@@ -1,0 +1,4 @@
+data/*.tif
+data/*.tiff
+output/*.tif
+output/*.tiff
